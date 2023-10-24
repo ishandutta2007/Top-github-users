@@ -1,0 +1,7 @@
+# Top-github-users
+Most followed github users
+
+|<ins>#</ins>|  <ins>Repo</ins>  | <ins>Repo_Stars_______<ins> | <ins>User_Stars________<ins> |
+|---|---|---|---|
+| 1 | [ishan](https://github.com/ishandutta2007) | <a href="https://github.com/ishandutta2007?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/torvalds?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> | <a href="https://github.com/torvalds?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/torvalds"/></a> |
+| 2 | [torvalds](https://github.com/torvalds) | <a href="https://github.com/torvalds?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/torvalds?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> | <a href="https://github.com/torvalds?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/torvalds"/></a> |
